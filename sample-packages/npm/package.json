@@ -1,7 +1,7 @@
 {
   "your": "json config here",
   "name": "@amenocal/npm-test",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "test package",
   "main": "index.js",
   "scripts": {
