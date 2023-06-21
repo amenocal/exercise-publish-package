@@ -13,8 +13,8 @@ jobs:
         with:
           node-version: 12
       - run: |
-          npm ci
           npm install
+          npm ci
         working-directory: sample-packages/npm
 
   publish-gpr:
