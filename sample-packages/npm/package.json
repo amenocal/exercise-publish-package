@@ -1,3 +1,23 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "npm-test",
+  "version": "0.0.4",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amenocal/exercise-publish-package.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "@amenocal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amenocal/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/amenocal/exercise-publish-package#readme"
 }
